@@ -1,4 +1,5 @@
 from website import create_app
+import dasf
 
 app = create_app()
 
